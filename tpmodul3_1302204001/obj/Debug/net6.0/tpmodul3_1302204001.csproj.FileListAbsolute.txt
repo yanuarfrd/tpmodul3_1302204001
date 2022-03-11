@@ -1,0 +1,15 @@
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\bin\Debug\net6.0\tpmodul3_1302204001.exe
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\bin\Debug\net6.0\tpmodul3_1302204001.deps.json
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\bin\Debug\net6.0\tpmodul3_1302204001.runtimeconfig.json
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\bin\Debug\net6.0\tpmodul3_1302204001.dll
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\bin\Debug\net6.0\tpmodul3_1302204001.pdb
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.csproj.AssemblyReference.cache
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.AssemblyInfoInputs.cache
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.AssemblyInfo.cs
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.dll
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\refint\tpmodul3_1302204001.dll
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.pdb
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\tpmodul3_1302204001.genruntimeconfig.cache
+C:\Users\HP\Praktikum_KPL\tpmodul3_1302204001\tpmodul3_1302204001\obj\Debug\net6.0\ref\tpmodul3_1302204001.dll
